@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Authentication and secrets
+salesforce-auth.json
+.env
+.env.*
+
+# Playwright artifacts
+.playwright-cli/
+test-results/
+playwright-report/
